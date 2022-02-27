@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word of wisdom and counsel to the officers and souldiers of the army in England, &amp;c. To weigh and consider before the light and power of their day be shut up in darknesse when they cannot act for God.</title>
+            <author>Hubberthorn, Richard, 1628-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86675</idno>
+            <idno type="STC">Wing H3242</idno>
+            <idno type="STC">ESTC R229349</idno>
+            <idno type="EEBO-CITATION">45789350</idno>
+            <idno type="OCLC">ocm 45789350</idno>
+            <idno type="VID">172659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172659)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word of wisdom and counsel to the officers and souldiers of the army in England, &amp;c. To weigh and consider before the light and power of their day be shut up in darknesse when they cannot act for God.</title>
+                  <author>Hubberthorn, Richard, 1628-1662.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Richard Hubberthorn.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172659:1"/>
+            <head>A WORD of WISDOM and CO<g ref="char:V">Ʋ</g>NSEL to the Officers and Souldiers of the AR<g ref="char:EOLhyphen"/>MY in <hi>ENGLAND,</hi> &amp;c.</head>
+            <head type="sub">To weigh and conſider before the light and power of their day bee ſhut up in darkneſſe when they cannot Act for God.</head>
+            <p>THE people of this Common-wealth hath by deep and ſad experi<g ref="char:EOLhyphen"/>ences not onely ſeen the falſeneſſe and deceivableneſſe of many fair words and pretences, whereby they have been betrayed of their liberties and freedom, and nothing yet but bondage and ſlavery is left upon them, but they alſo through their deep ſuf<g ref="char:EOLhyphen"/>ferings have learned to know the ſpirits of men. And though every appear<g ref="char:EOLhyphen"/>ance of a Power that ariſeth gets new words and fair pretences, but ſtill in the old ſpirit; Yet we do perfectly know, that it is the new Spirit of the Lord put in the inward parts, from which men muſt act for the Lord and for the Liberties of his people, before they be eſtabliſhed in Righteouſneſs, or enjoy the Liberty of their Conſciences. And we ſee that God hath given time and dayes, which ſhould have been dayes of Liberty and of plentious redemption; But through mens departing from the leadings of God, and ſuffering their own wiſdom to pervert them, they became dayes of perſecu<g ref="char:EOLhyphen"/>tion and cruelty, which for the Elects ſake (which ſuffered in them) was ſhort<g ref="char:EOLhyphen"/>ned; as for inſtance,</p>
+            <p n="1">1. <hi>Oliver Cromwell</hi> in his dayes made many Vows, Promiſes, Engage<g ref="char:EOLhyphen"/>ments and Profeſſions for the Liberty of tender Conſciences, as the honeſt People of this Nation are not ignorant, &amp; how that at <hi>Dunbar,</hi> he confeſt unto God in his prayer, <hi>That if the Lord would but deliver him that time, he would <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake away that great oppreſſion of Tithes;</hi> which when he was delivered, both at that and many other times, &amp; had a prize put into his hand, yet had no heart to improve it; but contrary to all his prayers, promiſes and engagements, ſuffered and tollerated the wicked ſpirit of perſecution, in the murthering Prieſts and Magiſtrates to Rule in the Land over tender Conſciences, even until violence and blood covered the earth and filled the whole Nation; ſuffering Laws to be made for <hi>Tithes,</hi> and for perſecuting of tender Conſci<g ref="char:EOLhyphen"/>ences, and ſo building again that which he had deſtroyed, and ſo made himſelf a Tranſgreſſor; but for the Elects ſake his dayes were ſhortened.</p>
+            <p n="2">2. In the dayes of <hi>R. Cromwel</hi> many of that ſucceeding Parliament began to declare their ſenſibleneſs, how that <hi>O. Cromwell</hi> had betrayed the Nation and its Liberty, and left them in great bondage, debt, perſecution and ſlave<g ref="char:EOLhyphen"/>ry; But how ſoon they were perverted, and became more bloody and cru<g ref="char:EOLhyphen"/>el againſt all that fear God, (the upright in heart are ſenſible) ſetting up in themſelves that which they declared againſt in him, and in ſtead of giving liberty and freedom to the Army and to the people of God, they voted down that liberty and freedom which they already had <hi>(viz.)</hi> of meeting together one with another in the fear and worſhip of God, and ſo they be<g ref="char:EOLhyphen"/>came cruel as the Oſtridge in the Wilderneſſe, and as evening Wolves; but for the Elects ſake was their dayes ſhortened.</p>
+            <p n="3">3. The long and late Parl they came up with greater pretences of liberty &amp; freedom, then all that was before them; and the people generally applauding of them, by telling them that they were the beginners of ſelting the Nation in the way of Common-wealth; and did expect they ſhould perfect the peo<g ref="char:EOLhyphen"/>ples Liberty and Freedom outwardly (which by the other Powers they had <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fered under) expecting that they ſhould remove thoſe burthens which <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as laid upon tender Conſciences by impoſitions and cruel ſufferings, and in their beginning they ſeemed to be given up to do the work expected from them, and did publiſh it in their weekly news to the Nation ſeveral times, that it was their real intent to make the Nation a Free Common-wealth, not in name but in nature, and this was often expreſſed by them, and indeed they did ſomething more then thoſe that went before them, in ſetting at Liberty thoſe that were impriſoned becauſe they could not pay <hi>Tythes</hi> to the Prieſts, and becauſe they could not ſwear, and becauſe they could not put off their hats to honour pride and ambition, and becauſe they ſpoke the Truth againſt the deceits of the Prieſts, which both the Souldiers and the honeſt hearted in the Nation knows how treacherous they have been, and the hinderance of every appearance of God in the Nation, for the chief cauſe of Gods breaking down, and of bringing into ignominy, ſhame and re<g ref="char:EOLhyphen"/>proach thoſe late powers before mentioned was the leting in of the Prieſts ſpirit and flatteries; as <hi>O. Cromwell,</hi> if alive would witneſſe, or thoſe that are alive may witneſſe for him, that he had never been ſuch a covenant<g ref="char:EOLhyphen"/>breaker and betrayer of the Nations Liberties, but by letting in that wicked intereſt, which made him a reproach, a by-word, a hiſſing among the people. And the two late Parliaments, it was their joyning to that betraying inter<g ref="char:EOLhyphen"/>eſt of the Prieſts, and neglecting of the Nations buſineſſe that brought dark<g ref="char:EOLhyphen"/>neſſe and confuſion, and conſequently a deſſolution upon them: And the laſt as I ſaid did ſomething more then the former; But when they began to revive the committee for plundred Miniſters, and did not take notice, nor call any Committe to ſubdue or puniſh the plundering Miniſters, of which they were informed from divers parts of the Nation, which had feloniouſly ta<g ref="char:EOLhyphen"/>ken away the goods of many an honeſt innocent man; then did Gods In<g ref="char:EOLhyphen"/>dignation grow hot againſt them, and then was it time for them to be diſ<g ref="char:EOLhyphen"/>ſolved, for they had finiſhed their day, and they had done all that ever they would have done for the Lord, for bonds and violence was in their hearts; but for the Elects ſake, which hath alwayes borne a true Teſtimony againſt the oppreſſion and cruelty under which the Innocent ſuffers, was their days ſhortened.</p>
+            <p>
+               <hi>All thoſe before mentioned had their day from the Lord given them to try und to prove them, and they have been tried and proved.</hi>
+            </p>
+            <p>And now you the Army have your day from the Lord, wherein you will be tried and proved, and you will be more in excuſable if you do not the things pretended, then any that hath been before you, for you ſee what hath been the cauſe of the fall, and you ſee how that through Pride and Ambition, flatteries and fair pretences, the Cauſe of God, and the Peoples Li<g ref="char:EOLhyphen"/>berties have been betrayed by thoſe that have ſought honour one of another, and not the honour which belongs unto God onely; Therefore if you would have the Lord to honour you, and keep you in renown in the Nation, ſeek not your ſelves, but deny your own Lordſhips honours and Excellencies, let none cleave unto you by flatteries, in giving you titles in ſeeming reſpect, and honors, for that will betray you, and lead you from that Innocency by which you ſhould act for the Lord; and as now you have Power, exerciſe it, in chuſing men fearing God, and hating covetouſneſſe, ambition, pride and honor, that ſo the Nation may enjoy that Liberty and Freedom which they have long waited for, and ſuffer none to act that perſecution in your names which hath already covered the Nation with blackneſſe and darkneſſe, and hath brought Gods curſe upon their proceedings.</p>
+            <p>One thing is upon me to acquaint you with, which many of you it may be doth not know, which is this; One of the little horns which puſhed &amp; perſecu<g ref="char:EOLhyphen"/>ted the Lambs of Chriſt, is ſpringing up again, and begins to be as fierce as e<g ref="char:EOLhyphen"/>ver; For yeſterday in the Exchequer at <hi>Weſtminſter,</hi> Judge <hi>Parker</hi> and Judge <hi>Wilde</hi> would not receive a true anſwer from an honeſt man (who is well known for his uprightneſſe) againſt a falſe Bill prohibited againſt him by a Prieſt, unleſſe he would give it in upon Oath; and therefore becauſe he could not ſwear for Conſcience ſake, but did teſtifie the Truth from his heart, he was committed Priſoner to the <hi>Fleet,</hi> and ſeveral others True and Juſt men, and Friends to the Common-wealth, was denied the Law, and their anſwers rejected, becauſe they could not ſwear; but in whoſe names and by whoſe authority they act thoſe things is not yet declared to the Nation: If thoſe Judges act thoſe things in the name and by the authority of the Army or their late choſen Counſel, let it be openly manifeſt; and if not, but they did it in their own names, let the Nation know it; For this is worſe then the laſt Parliament, who did ſet many free who were ſo impriſoned, &amp; did give com<g ref="char:EOLhyphen"/>miſſions and receive Teſtimony without ſwearing; and Judge <hi>Parker</hi> ſeems to have forgotten that knowledge and fidelity which he had of that people when he went his laſt circuit in the North, and his ſo favouring the Prieſts now, ſhews that he hath forgotten ſince he confeſt that he was Sermon-ſick at <hi>Car<g ref="char:EOLhyphen"/>liſle</hi> this laſt Summer, when he wiſhed that a <hi>Quaker</hi> had been there, and ſaw that they had reaſon to declare againſt them, &amp;c.</p>
+            <p>But to us it is no ſtrange thing to ſee men ſo apt to change and to betray their own knowledge for filthy lucre ſake, while the corruption of the Laws through bribery and deceit is upheld, which once the Souldiers had a clear fight of, and a determination to pull down, and now it is the onely day of their tryal to prove themſelves, and it is doing of that which you have accuſ<g ref="char:EOLhyphen"/>ed the Parliaments for not doing that muſt make you manifeſt; for people will no longer believe words; for your ſelves know, that the good people of the Nation have made daily complaints and Petitions, and the Officers and Souldiers alſo, againſt that general oppreſſion of <hi>Tithes,</hi> and the Parliament hath onely given them thanks for their good expreſſions, and good affecti<g ref="char:EOLhyphen"/>ons, but done nothing, until their thanks did even become loathſom to the people.</p>
+            <p>Is it not a grievous thing, and intollerable to be born, that innocent and faithful men (who ſee and deny the Prieſts deceit) ſhould be forced, whether by Law or Violence, to give them the tenth part of all their labours and in<g ref="char:EOLhyphen"/>creaſe, and they with that mony to buy horſe and arms to raiſe a Rebellion, to murther and deſtroy thoſe men who deny to give them that which your Law hath cauſed to be taken from them, and ſo both the Law and Prieſt<g ref="char:EOLhyphen"/>hood is joyned together in oppreſſion of the people.</p>
+            <p>
+               <hi>And the Nation is very ſenſible that all this while they have but been deceiv<g ref="char:EOLhyphen"/>ed by promiſes and fair pretences, Therefore be diligent to improve the light of your day, before the Sun ſet upon you, and you be ſhut up in darkneſſe, and the power to do good be taken from you.</hi>
+            </p>
+            <closer>
+               <signed>A Member of his Army, who makes war with the ſword of his mouth,
+<hi>RICHARD HUBBERTHORN.</hi>
+               </signed>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>the 24 of the 8. mo. 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
